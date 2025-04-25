@@ -7,7 +7,7 @@ toolchain go1.24.2
 require (
 	github.com/Nerzal/gocloak/v13 v13.9.0
 	github.com/ReneKroon/ttlcache v1.7.0
-	github.com/cloudevents/sdk-go/v2 v2.15.2
+	github.com/cloudevents/sdk-go/v2 v2.16.0
 	github.com/eclipse-xfsc/cloud-event-provider v0.1.5
 	github.com/eclipse-xfsc/microservice-core-go v1.1.0
 	github.com/eclipse-xfsc/nats-message-library v1.1.13
